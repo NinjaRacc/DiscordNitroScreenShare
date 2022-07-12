@@ -1,6 +1,6 @@
 /**
  * @name DiscordNitroScreenShare
- * @author es3n1n
+ * @author NinjaRacc
  * @version 1.0.0
  * @authorLink https://github.com/mrbigboob
  * @description Unlock 1080p 60fps screen share
